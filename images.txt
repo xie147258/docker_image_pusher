@@ -1,4 +1,4 @@
 alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
-immich-app/immich
+docker.io/redis:6.2-alpine
