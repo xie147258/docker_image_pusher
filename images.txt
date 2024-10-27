@@ -4,5 +4,5 @@ python:alpine3.19
 redis:6.2-alpine
 postgres
 tensorchord/pgvecto.rs
-immich
+immich-app/immich
 
